@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms I made while solving coding challenges online, working to improve!
+Algorithms I made while solving programming challenges online on various challenge websites!
